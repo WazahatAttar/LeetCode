@@ -23,6 +23,7 @@ A collection of my LeetCode Submissions
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/WazahatAttar/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/WazahatAttar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Math
@@ -37,4 +38,8 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/WazahatAttar/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
