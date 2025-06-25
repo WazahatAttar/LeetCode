@@ -25,4 +25,16 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0041-first-missing-positive](https://github.com/WazahatAttar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
