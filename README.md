@@ -15,6 +15,7 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WazahatAttar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/WazahatAttar/LeetCode/tree/master/0076-minimum-window-substring) |
+| [2470-removing-stars-from-a-string](https://github.com/WazahatAttar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +57,12 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/WazahatAttar/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/WazahatAttar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/WazahatAttar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
