@@ -30,6 +30,7 @@ A collection of my LeetCode Submissions
 | [0041-first-missing-positive](https://github.com/WazahatAttar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/WazahatAttar/LeetCode/tree/master/0037-sudoku-solver) |
+| [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of my LeetCode Submissions
 ## Simulation
 |  |
 | ------- |
+| [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/WazahatAttar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -76,4 +79,8 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
