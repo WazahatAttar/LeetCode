@@ -10,6 +10,7 @@ A collection of my LeetCode Submissions
 | [0037-sudoku-solver](https://github.com/WazahatAttar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/WazahatAttar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/WazahatAttar/LeetCode/tree/master/0076-minimum-window-substring) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of my LeetCode Submissions
 | [0041-first-missing-positive](https://github.com/WazahatAttar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
