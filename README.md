@@ -35,6 +35,7 @@ A collection of my LeetCode Submissions
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/WazahatAttar/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/WazahatAttar/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/WazahatAttar/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/WazahatAttar/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
