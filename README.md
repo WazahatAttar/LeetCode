@@ -28,6 +28,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/WazahatAttar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/WazahatAttar/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/WazahatAttar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/WazahatAttar/LeetCode/tree/master/0041-first-missing-positive) |
@@ -83,6 +84,7 @@ A collection of my LeetCode Submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/WazahatAttar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -100,4 +102,8 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/WazahatAttar/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/WazahatAttar/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
