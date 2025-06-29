@@ -4,14 +4,14 @@ class Solution:
         if not s:
             return False
 
-        def is_integer(string):
+        def is_int(string):
             if not string:
                 return False
             if string[0] in ['+', '-']:
                 string = string[1:]
             return string.isdigit()
 
-        def is_decimal(string):
+        def is_dec(string):
             if not string:
                 return False
             if string[0] in ['+', '-']:
@@ -21,7 +21,6 @@ class Solution:
                 return False
 
             before_dot, after_dot = string.split('.', 1)
-            # Allow empty before or after the dot, but not both
             if before_dot == '' and after_dot == '':
                 return False
             if before_dot != '' and not before_dot.isdigit():
@@ -30,12 +29,11 @@ class Solution:
                 return False
             return True
 
-        # Split into base and exponent if 'e' or 'E' is found
         if 'e' in s or 'E' in s:
             parts = s.lower().split('e')
             if len(parts) != 2:
                 return False
             base, exp = parts
-            return (is_integer(base) or is_decimal(base)) and is_integer(exp)
+            return (is_int(base) or is_dec(base)) and is_int(exp)
         else:
-            return is_integer(s) or is_decimal(s)
+            return is_int(s) or is_dec(s)
