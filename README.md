@@ -39,6 +39,7 @@ A collection of my LeetCode Submissions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/WazahatAttar/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
