@@ -15,6 +15,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WazahatAttar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0065-valid-number](https://github.com/WazahatAttar/LeetCode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/WazahatAttar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/WazahatAttar/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/WazahatAttar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
