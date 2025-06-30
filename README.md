@@ -7,6 +7,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WazahatAttar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/WazahatAttar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/WazahatAttar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/WazahatAttar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/WazahatAttar/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -15,6 +16,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WazahatAttar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/WazahatAttar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0065-valid-number](https://github.com/WazahatAttar/LeetCode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/WazahatAttar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/WazahatAttar/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -42,6 +44,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/WazahatAttar/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/WazahatAttar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
