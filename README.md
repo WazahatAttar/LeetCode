@@ -40,6 +40,7 @@ A collection of my LeetCode Submissions
 | [0037-sudoku-solver](https://github.com/WazahatAttar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/WazahatAttar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/WazahatAttar/LeetCode/tree/master/0046-permutations) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -69,6 +70,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/WazahatAttar/LeetCode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/WazahatAttar/LeetCode/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
