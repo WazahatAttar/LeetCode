@@ -17,6 +17,7 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WazahatAttar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/WazahatAttar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/WazahatAttar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/WazahatAttar/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/WazahatAttar/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -33,6 +34,7 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/WazahatAttar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/WazahatAttar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/WazahatAttar/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/WazahatAttar/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/WazahatAttar/LeetCode/tree/master/0037-sudoku-solver) |
@@ -119,4 +121,8 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/WazahatAttar/LeetCode/tree/master/0015-3sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/WazahatAttar/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
