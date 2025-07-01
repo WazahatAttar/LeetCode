@@ -106,11 +106,13 @@ A collection of my LeetCode Submissions
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Brainteaser
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/WazahatAttar/LeetCode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
