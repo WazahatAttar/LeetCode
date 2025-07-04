@@ -144,4 +144,20 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
