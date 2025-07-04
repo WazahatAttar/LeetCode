@@ -115,6 +115,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/WazahatAttar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
@@ -162,4 +163,8 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/WazahatAttar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
