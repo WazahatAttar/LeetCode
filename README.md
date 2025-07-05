@@ -21,6 +21,7 @@ A collection of my LeetCode Submissions
 | [0013-roman-to-integer](https://github.com/WazahatAttar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/WazahatAttar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/WazahatAttar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/WazahatAttar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/WazahatAttar/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/WazahatAttar/LeetCode/tree/master/0076-minimum-window-substring) |
