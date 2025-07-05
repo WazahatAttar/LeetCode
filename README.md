@@ -54,6 +54,7 @@ A collection of my LeetCode Submissions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/WazahatAttar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/WazahatAttar/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/WazahatAttar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
@@ -114,6 +115,7 @@ A collection of my LeetCode Submissions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/WazahatAttar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WazahatAttar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -166,5 +168,6 @@ A collection of my LeetCode Submissions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/WazahatAttar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WazahatAttar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
