@@ -119,6 +119,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/WazahatAttar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WazahatAttar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -173,5 +174,6 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/WazahatAttar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/WazahatAttar/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WazahatAttar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
