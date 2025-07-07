@@ -47,6 +47,7 @@ A collection of my LeetCode Submissions
 | [0041-first-missing-positive](https://github.com/WazahatAttar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/WazahatAttar/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/WazahatAttar/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/WazahatAttar/LeetCode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
@@ -83,6 +84,7 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0037-sudoku-solver](https://github.com/WazahatAttar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/WazahatAttar/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/WazahatAttar/LeetCode/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
