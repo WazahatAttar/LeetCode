@@ -50,6 +50,7 @@ A collection of my LeetCode Submissions
 | [0046-permutations](https://github.com/WazahatAttar/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/WazahatAttar/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/WazahatAttar/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/WazahatAttar/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -63,6 +64,7 @@ A collection of my LeetCode Submissions
 | [0009-palindrome-number](https://github.com/WazahatAttar/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/WazahatAttar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/WazahatAttar/LeetCode/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
 | ------- |
