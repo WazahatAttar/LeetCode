@@ -68,6 +68,7 @@ A collection of my LeetCode Submissions
 | [0013-roman-to-integer](https://github.com/WazahatAttar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/WazahatAttar/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/WazahatAttar/LeetCode/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/WazahatAttar/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/WazahatAttar/LeetCode/tree/master/0069-sqrtx) |
 ## Backtracking
 |  |
 | ------- |
