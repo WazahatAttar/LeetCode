@@ -71,6 +71,7 @@ A collection of my LeetCode Submissions
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/WazahatAttar/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/WazahatAttar/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/WazahatAttar/LeetCode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of my LeetCode Submissions
 | [0032-longest-valid-parentheses](https://github.com/WazahatAttar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/WazahatAttar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
 ## Combinatorics
 |  |
@@ -193,4 +195,8 @@ A collection of my LeetCode Submissions
 | [0010-regular-expression-matching](https://github.com/WazahatAttar/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WazahatAttar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/WazahatAttar/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
