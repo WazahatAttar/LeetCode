@@ -27,6 +27,7 @@ A collection of my LeetCode Submissions
 | [0020-valid-parentheses](https://github.com/WazahatAttar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/WazahatAttar/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/WazahatAttar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/WazahatAttar/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/WazahatAttar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/WazahatAttar/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
@@ -80,6 +81,7 @@ A collection of my LeetCode Submissions
 | [0010-regular-expression-matching](https://github.com/WazahatAttar/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/WazahatAttar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/WazahatAttar/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WazahatAttar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
@@ -156,6 +158,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/WazahatAttar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/WazahatAttar/LeetCode/tree/master/0044-wildcard-matching) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of my LeetCode Submissions
 | [0010-regular-expression-matching](https://github.com/WazahatAttar/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WazahatAttar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/WazahatAttar/LeetCode/tree/master/0044-wildcard-matching) |
 ## Memoization
 |  |
 | ------- |
