@@ -144,6 +144,7 @@ A collection of my LeetCode Submissions
 | [0021-merge-two-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/WazahatAttar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WazahatAttar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/WazahatAttar/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
