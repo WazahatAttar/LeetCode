@@ -60,6 +60,7 @@ A collection of my LeetCode Submissions
 | [0056-merge-intervals](https://github.com/WazahatAttar/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/WazahatAttar/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/WazahatAttar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -121,6 +122,7 @@ A collection of my LeetCode Submissions
 | [0020-valid-parentheses](https://github.com/WazahatAttar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/WazahatAttar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/WazahatAttar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [2470-removing-stars-from-a-string](https://github.com/WazahatAttar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -140,6 +142,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/WazahatAttar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Linked List
 |  |
 | ------- |
