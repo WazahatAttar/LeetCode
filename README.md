@@ -61,6 +61,7 @@ A collection of my LeetCode Submissions
 | [0066-plus-one](https://github.com/WazahatAttar/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WazahatAttar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/WazahatAttar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WazahatAttar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -138,6 +139,7 @@ A collection of my LeetCode Submissions
 | [0011-container-with-most-water](https://github.com/WazahatAttar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/WazahatAttar/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/WazahatAttar/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0015-3sum](https://github.com/WazahatAttar/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/WazahatAttar/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/WazahatAttar/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
 | ------- |
