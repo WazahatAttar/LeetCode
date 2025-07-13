@@ -62,6 +62,7 @@ A collection of my LeetCode Submissions
 | [0066-plus-one](https://github.com/WazahatAttar/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WazahatAttar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/WazahatAttar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/WazahatAttar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
 | [0643-maximum-average-subarray-i](https://github.com/WazahatAttar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -90,6 +91,7 @@ A collection of my LeetCode Submissions
 | [0044-wildcard-matching](https://github.com/WazahatAttar/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WazahatAttar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/WazahatAttar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
 ## Combinatorics
 |  |
@@ -111,6 +113,7 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/WazahatAttar/LeetCode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/WazahatAttar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
 | [2411-spiral-matrix-iv](https://github.com/WazahatAttar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
@@ -125,6 +128,7 @@ A collection of my LeetCode Submissions
 | [0032-longest-valid-parentheses](https://github.com/WazahatAttar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WazahatAttar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/WazahatAttar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [2470-removing-stars-from-a-string](https://github.com/WazahatAttar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -147,6 +151,7 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WazahatAttar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/WazahatAttar/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Linked List
 |  |
 | ------- |
