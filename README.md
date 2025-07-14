@@ -129,6 +129,7 @@ A collection of my LeetCode Submissions
 | [0042-trapping-rain-water](https://github.com/WazahatAttar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WazahatAttar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/WazahatAttar/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/WazahatAttar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2470-removing-stars-from-a-string](https://github.com/WazahatAttar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -197,10 +198,12 @@ A collection of my LeetCode Submissions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/WazahatAttar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/WazahatAttar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -209,6 +212,7 @@ A collection of my LeetCode Submissions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/WazahatAttar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Recursion
 |  |
