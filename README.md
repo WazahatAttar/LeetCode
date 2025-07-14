@@ -36,6 +36,7 @@ A collection of my LeetCode Submissions
 | [0065-valid-number](https://github.com/WazahatAttar/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/WazahatAttar/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/WazahatAttar/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/WazahatAttar/LeetCode/tree/master/0087-scramble-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/WazahatAttar/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/WazahatAttar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
@@ -94,6 +95,7 @@ A collection of my LeetCode Submissions
 | [0062-unique-paths](https://github.com/WazahatAttar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WazahatAttar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/WazahatAttar/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/WazahatAttar/LeetCode/tree/master/0087-scramble-string) |
 | [0174-dungeon-game](https://github.com/WazahatAttar/LeetCode/tree/master/0174-dungeon-game) |
 ## Combinatorics
 |  |
