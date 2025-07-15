@@ -205,11 +205,13 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/WazahatAttar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/WazahatAttar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of my LeetCode Submissions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/WazahatAttar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0100-same-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -231,4 +234,8 @@ A collection of my LeetCode Submissions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/WazahatAttar/LeetCode/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/WazahatAttar/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
